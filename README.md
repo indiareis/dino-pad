@@ -1,2 +1,2 @@
 # minipad
-A hackpad for a hackclub event named higway
+A hackpad for a hackclub event named highway
